@@ -1,0 +1,10 @@
+---
+stack_env: vizio_allinone
+floating_ip: 169.45.149.137
+#fqdn: tabner-allinone
+
+#haproxy:
+#  enabled: False
+
+percona:
+  replication: False
